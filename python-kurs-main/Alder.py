@@ -1,0 +1,5 @@
+alder = int(input("Hvor gammel er du? "))
+print("Om 5 år er du", alder + 5)
+print("Om 10 år er du", alder + 10)
+print("Om 20 år er du", alder + 20)
+print("Om 30 år er du", alder + 30)
